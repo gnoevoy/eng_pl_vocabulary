@@ -1,6 +1,6 @@
 phrase,is_passed
 a bit,False
-a bit more,False
+a bit more,True
 a bit of a…,False
 a bit of sth,False
 a couple of sth,False
@@ -28,7 +28,7 @@ account for sth,False
 accused of sth,False
 act as sth,False
 add to sth,False
-after all,False
+after all,True
 again and again,False
 agree with sb,False
 aim to do sth,False
@@ -109,7 +109,7 @@ awareness of sth,False
 away from sb/sth,False
 back and forth,False
 back sb/sth up,False
-bad for sb/sth,False
+bad for sb/sth,True
 bad news,False
 bad thing,False
 based on sth,False
@@ -179,7 +179,7 @@ come from…,False
 come into sth,False
 come on!,False
 come true,False
-come up with sth,False
+come up with sth,True
 compared with sth,False
 concentrate on sth,False
 concerned about sth,False
@@ -216,7 +216,7 @@ each other,False
 economic growth,False
 end in sth,False
 end up,False
-end with sth,False
+end with sth,True
 engage in sth,False
 engaged in sth,False
 even if,False
@@ -246,7 +246,7 @@ figure sb/sth out,False
 fill sth in,False
 find it difficult to do sth,False
 find out,False
-find yourself doing sth,False
+find yourself doing sth,True
 first of all,False
 focus on sb/sth,False
 follow sth up,False
@@ -354,7 +354,7 @@ human rights,False
 i don't care,False
 i guess,False
 i have to say…,False
-i mean,False
+i mean,True
 i think so,False
 i wonder if…,False
 i would say…,False
@@ -433,7 +433,7 @@ in the middle,False
 in the midst of sth,False
 in the morning,False
 in the near future,False
-in the north,False
+in the north,True
 in the past,False
 in the presence of sb,False
 in the same way,False
@@ -462,7 +462,7 @@ learn how to do sth,False
 leave sb/sth out,False
 less than…,False
 let alone,False
-let me know,False
+let me know,True
 let me…,False
 likely to do sth,False
 listen to sb/sth,False
@@ -493,7 +493,7 @@ mental health,False
 millions of…,False
 mobile phone,False
 more and more,False
-more or less,False
+more or less,True
 more than…,False
 move on,True
 much better,False
@@ -596,9 +596,9 @@ raise money,False
 ranging from,False
 rather than,False
 reaction to sth,True
-really enjoy,False
+really enjoy,True
 really good,False
-really like,False
+really like,True
 reasons why,False
 refer to sb/sth,False
 regarded as sth,False
@@ -689,7 +689,7 @@ they say…,False
 think about sb/sth,False
 think of sb/sth,False
 this is…,False
-this kind of…,False
+this kind of…,True
 this morning,False
 this time,False
 this year,False
@@ -729,11 +729,11 @@ with respect to sth,False
 with the exception of sb/sth,False
 work as sth,False
 work for sb/sth,False
-work hard,False
+work hard,True
 work on sth,False
 work out,False
 work sth out,False
-work together,False
+work together,True
 work with sb,False
 worried about sb/sth,False
 would like,False

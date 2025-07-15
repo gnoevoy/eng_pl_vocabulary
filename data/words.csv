@@ -15,7 +15,7 @@ abuse,False
 academic,False
 accent,False
 accept,False
-acceptable,False
+acceptable,True
 access,True
 accident,True
 accidental,False
@@ -83,7 +83,7 @@ again,False
 against,False
 age,True
 aged,False
-agency,False
+agency,True
 agent,False
 aggressive,False
 ago,False
@@ -448,7 +448,7 @@ bus,False
 bush,True
 business,False
 businessman,False
-busy,False
+busy,True
 but,True
 butter,False
 button,False
@@ -482,7 +482,7 @@ candidate,False
 candy,False
 cannot,False
 cap,False
-capable,False
+capable,True
 capacity,False
 capital,False
 captain,False
@@ -491,7 +491,7 @@ car,True
 card,False
 cardboard,False
 care,False
-career,False
+career,True
 care for,False
 careful,False
 carefully,False
@@ -644,7 +644,7 @@ come off,False
 come on,True
 come out,False
 come round,True
-come to,False
+come to,True
 come up,False
 come up to,False
 comfort,False
@@ -668,7 +668,7 @@ comparison,False
 compete,False
 competition,False
 competitive,False
-complain,False
+complain,True
 complaint,True
 complete,False
 completely,False
@@ -745,7 +745,7 @@ convenient,False
 convention,True
 conventional,False
 conversation,False
-convert,False
+convert,True
 convince,True
 cook,False
 cooker,False
@@ -765,7 +765,7 @@ cotton,False
 cough,False
 coughing,False
 could,False
-council,False
+council,True
 count,False
 counter,False
 count on,True
@@ -806,7 +806,7 @@ cross out,False
 crowd,False
 crowded,False
 crown,False
-crucial,False
+crucial,True
 cruel,False
 crush,False
 cry,False
@@ -831,7 +831,7 @@ custom,False
 customer,False
 customs,False
 cut,False
-cut back,False
+cut back,True
 cut down,False
 cut off,False
 cut out,False
@@ -864,7 +864,7 @@ death,False
 debate,False
 debt,False
 decade,False
-decay,False
+decay,True
 December,False
 decide,False
 decide on,False
@@ -923,7 +923,7 @@ destroy,True
 destruction,False
 detail,False
 detailed,False
-determination,False
+determination,True
 determine,False
 determined,False
 develop,True
@@ -958,13 +958,13 @@ disabled,False
 disadvantage,False
 disagree,True
 disagreement,False
-disagree with doing,False
+disagree with doing,True
 disappear,False
 disappoint,False
 disappointed,False
 disappointing,False
 disappointment,False
-disapproval,False
+disapproval,True
 disapprove,False
 disapproving,False
 disaster,False
@@ -999,7 +999,7 @@ division,False
 divorce,False
 divorced,False
 do 1,False
-doctor,False
+doctor,True
 document,False
 dog,True
 dollar,True
@@ -1023,7 +1023,7 @@ drama,False
 dramatic,False
 dramatically,False
 draw,False
-drawer,False
+drawer,True
 drawing,False
 dream,False
 dress,False
@@ -1089,7 +1089,7 @@ eighth,False
 eightieth,False
 eighty,True
 either,False
-elbow,False
+elbow,True
 elderly,False
 elect,False
 election,False
@@ -1274,7 +1274,7 @@ farthest,False
 fashion,False
 fashionable,True
 fast,False
-fasten,False
+fasten,True
 fat,True
 father,False
 faucet,True
@@ -1335,7 +1335,7 @@ fit,False
 fit in,False
 five,True
 fix,False
-fixed,False
+fixed,True
 flag,False
 flame,False
 flash,False
@@ -1401,7 +1401,7 @@ Friday,False
 fridge,False
 friend,False
 friendly,False
-friendship,False
+friendship,True
 frighten,False
 frighten away/off,False
 frightened,False
@@ -1520,7 +1520,7 @@ gradually,False
 grain,False
 gram,False
 grammar,False
-grand,False
+grand,True
 grandchild,False
 granddaughter,True
 grandfather,False
@@ -1556,7 +1556,7 @@ hairdresser,True
 half,False
 hall,False
 hammer,False
-hand,False
+hand,True
 hand back,False
 hand down,False
 hand in,False
@@ -1699,7 +1699,7 @@ illness,True
 illustrate,True
 image,False
 imaginary,False
-imagination,False
+imagination,True
 imagine,False
 immediate,False
 immediately,False
@@ -1724,7 +1724,7 @@ in,False
 inability,False
 inch,False
 incident,False
-include,False
+include,True
 including,False
 income,False
 increase,False
@@ -1794,7 +1794,7 @@ international,False
 Internet,False
 interpret,True
 interpretation,True
-interrupt,False
+interrupt,True
 interruption,False
 interval,False
 interview,False
@@ -1834,7 +1834,7 @@ join,False
 join in,False
 joint,False
 jointly,False
-joke,False
+joke,True
 journalist,False
 journey,False
 joy,False
@@ -1863,7 +1863,7 @@ kill,False
 killing,False
 kilogram,False
 kilometre,False
-kind,False
+kind,True
 kindly,False
 kindness,False
 king,False
@@ -2043,7 +2043,7 @@ manufacturer,False
 manufacturing,True
 many,False
 map,False
-march,False
+march,True
 March,False
 mark,False
 market,False
@@ -2066,7 +2066,7 @@ may,False
 May,False
 maybe,False
 mayor,False
-me,False
+me,True
 meal,False
 mean,False
 meaning,False
@@ -2115,7 +2115,7 @@ mind,True
 mine,False
 mineral,False
 minimum,False
-minister,False
+minister,True
 ministry,False
 minor,False
 minority,False
@@ -2159,7 +2159,7 @@ mount,False
 mountain,True
 mouse,False
 mouth,False
-move,False
+move,True
 move in,False
 movement,False
 move out,False
@@ -2303,7 +2303,7 @@ on,False
 once,False
 one,False
 one another,True
-onion,False
+onion,True
 online,False
 only,False
 onto,True
@@ -2374,7 +2374,7 @@ pan 1,False
 panel,False
 pants,False
 paper,False
-parallel,False
+parallel,True
 parent,False
 park,False
 parliament,False
@@ -2410,7 +2410,7 @@ pay up,False
 peace,False
 peaceful,False
 peak,False
-pen,False
+pen,True
 pencil,False
 penny,True
 pension 1,False
@@ -2589,7 +2589,7 @@ probably,False
 problem,False
 procedure,False
 proceed,False
-process 1,False
+process 1,True
 produce,False
 producer,False
 product,False
@@ -2601,7 +2601,7 @@ profit,False
 program,False
 programme,False
 progress,True
-project,False
+project,True
 promise,True
 promote,True
 promotion,False
@@ -2680,7 +2680,7 @@ question,False
 quick,False
 quickly,False
 quiet,False
-quietly,False
+quietly,True
 quit,False
 quite,False
 quote,False
@@ -2861,7 +2861,7 @@ roll,False
 romantic,False
 roof,False
 room,False
-root,False
+root,True
 rope,False
 rough,False
 roughly,False
@@ -2878,7 +2878,7 @@ rude,False
 rudely,False
 ruin,True
 ruined,True
-rule,False
+rule,True
 rule out,False
 ruler,False
 rumour,False
@@ -2898,7 +2898,7 @@ sadly,True
 sadness,False
 safe,False
 safely,False
-safety,False
+safety,True
 sail,False
 sailing,False
 sailor,False
@@ -2919,7 +2919,7 @@ sauce,True
 save,False
 saving,False
 say,False
-scale,False
+scale,True
 scare,False
 scared,False
 scare off,False
@@ -2927,7 +2927,7 @@ scene,False
 schedule,False
 scheme,True
 school,False
-science,False
+science,True
 scientific,False
 scientist,True
 scissors,False
@@ -3048,7 +3048,7 @@ shower,False
 show off,False
 show round,False
 show up,False
-shut,False
+shut,True
 shut down,False
 shut in,False
 shut out,False
@@ -3093,7 +3093,7 @@ sixtieth,False
 sixty,False
 size,True
 skilful,False
-skilfully,False
+skilfully,True
 skill,False
 skilled,False
 skin,False
@@ -3204,7 +3204,7 @@ stand back,False
 stand by,True
 stand for,False
 stand out,False
-stand up,False
+stand up,True
 stand up for,False
 star,False
 stare,True
@@ -3263,7 +3263,7 @@ strict,False
 strictly,False
 strike,False
 striking,False
-string,False
+string,True
 strip,False
 stripe,False
 striped,False
@@ -3614,7 +3614,7 @@ united,True
 universe,False
 university,False
 unkind,False
-unknown,False
+unknown,True
 unless,False
 unlike,True
 unlikely,False
@@ -3718,7 +3718,7 @@ wash off,False
 wash out,False
 wash up,False
 waste,False
-watch,False
+watch,True
 watch out,False
 watch out for,False
 water,False
@@ -3764,7 +3764,7 @@ whisper,False
 whistle,False
 white,False
 who,False
-whoever,False
+whoever,True
 whole,False
 whom,False
 whose,False
