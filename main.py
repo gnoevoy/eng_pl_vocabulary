@@ -19,6 +19,7 @@ def get_values(df, col, n1, n2):
 
 
 def main():
+    # Import CSV files
     words = pd.read_csv("data/words.csv")
     phrases = pd.read_csv("data/phrases.csv")
 
