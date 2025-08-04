@@ -785,7 +785,7 @@ cow,False
 crack,False
 cracked,False
 craft,False
-crash,False
+crash,True
 crazy,False
 cream,False
 create,False
@@ -1169,7 +1169,7 @@ escape,False
 especially,False
 essay,False
 essential,False
-essentially,False
+essentially,True
 establish,False
 estate,False
 estimate,False
@@ -1231,7 +1231,7 @@ explore,False
 explosion,False
 export,True
 expose,False
-express,False
+express,True
 expression,False
 extend,False
 extension,True
@@ -1265,13 +1265,13 @@ family,False
 famous,False
 fan,False
 fancy,False
-far,False
+far,True
 farm,True
 farmer,False
 farming,False
 farther,False
 farthest,False
-fashion,False
+fashion,True
 fashionable,True
 fast,False
 fasten,True
@@ -1465,7 +1465,7 @@ get out of,True
 get over,False
 get round,False
 get round to,False
-get through,False
+get through,True
 get up,False
 giant,False
 gift,False
@@ -1533,7 +1533,7 @@ grateful,False
 grave 1,False
 gravely,False
 great,False
-greatly,False
+greatly,True
 green,False
 grey,False
 grocery,False
@@ -1840,7 +1840,7 @@ journey,False
 joy,False
 judge,True
 judgement,False
-juice,False
+juice,True
 July,False
 jump,False
 June,False
@@ -2126,7 +2126,7 @@ missing,False
 miss out,False
 mistake,False
 mistake for,False
-mistaken,False
+mistaken,True
 mix,False
 mixed,False
 mixture,True
@@ -2443,7 +2443,7 @@ photo,False
 photocopy,False
 photograph,False
 photographer,False
-photography,False
+photography,True
 phrase,True
 physical,True
 physically,False
@@ -2521,7 +2521,7 @@ positive,False
 possess,False
 possession,False
 possibility,False
-possible,False
+possible,True
 possibly,False
 post,False
 post office,False
@@ -2665,7 +2665,7 @@ put in,False
 put off,True
 put on,False
 put out,False
-put through,False
+put through,True
 put together,False
 put up,False
 put up with,True
@@ -2780,7 +2780,7 @@ remarkable,False
 remarkably,False
 remember,False
 remind,False
-remind of,False
+remind of,True
 remote,False
 removal,False
 remove,False
@@ -3155,7 +3155,7 @@ soup,False
 sour,False
 source,False
 south,False
-southern,False
+southern,True
 space,False
 spare,False
 speak,False
@@ -3354,7 +3354,7 @@ table,False
 tablet,False
 tackle,False
 tail,False
-take,False
+take,True
 take away,False
 take back,False
 take down,False
@@ -3364,7 +3364,7 @@ take on,True
 take over,False
 take up,False
 talk,True
-tall,False
+tall,True
 tank,False
 tap,False
 tape,False
@@ -3402,7 +3402,7 @@ terrible,False
 terribly,False
 test,False
 text,False
-than,False
+than,True
 thank,False
 thanks,True
 thank you,False
@@ -3515,7 +3515,7 @@ traditionally,False
 traffic,False
 train,False
 training,False
-transfer,False
+transfer,True
 transform,False
 translate,False
 translation,False
@@ -3670,7 +3670,7 @@ vegetable,False
 vehicle,False
 venture,False
 version,False
-vertical,False
+vertical,True
 very,False
 via,False
 victim,False
@@ -3765,7 +3765,7 @@ whistle,False
 white,False
 who,False
 whoever,True
-whole,False
+whole,True
 whom,False
 whose,False
 why,False

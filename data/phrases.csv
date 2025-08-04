@@ -12,7 +12,7 @@ a little,False
 a little bit,False
 a little more,False
 a long time ago,False
-a long way,False
+a long way,True
 a lot,False
 a lot more,False
 a lot of sth,False
@@ -56,7 +56,7 @@ around the world,False
 arrive at…,False
 arrive in…,False
 art gallery,False
-as a result,False
+as a result,True
 as a whole,False
 as far as i am concerned,False
 as far as sb/sth is concerned,False
@@ -104,7 +104,7 @@ at this stage,False
 at times,False
 at university,False
 at work,False
-attached to sb/sth,False
+attached to sb/sth,True
 awareness of sth,False
 away from sb/sth,False
 back and forth,False
@@ -236,7 +236,7 @@ fall in love,False
 fall off,False
 family member,False
 far away,False
-far from sth,False
+far from sth,True
 far more,False
 far too,False
 fed up,False
@@ -553,7 +553,7 @@ or so,False
 or something,False
 or two,False
 ordinary people,False
-other than,False
+other than,True
 ought to,False
 out of sth,False
 out there,False
@@ -746,6 +746,6 @@ x hours a day,False
 x times a…,False
 x years ago,False
 x years later,False
-x years old,False
+x years old,True
 you see,False
 you're welcome,False
